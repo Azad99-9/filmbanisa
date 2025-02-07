@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1061190048687",
+    "project_id": "filmbanisa",
+    "storage_bucket": "filmbanisa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061190048687:android:a73582738e1c0455326d5a",
+        "android_client_info": {
+          "package_name": "com.example.filmbanisa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061190048687-kdene0p334964egq44r61cpppd36ro3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.filmbanisa",
+            "certificate_hash": "1f88c1444294bdde0756ddf4eeef5f8284d868e8"
+          }
+        },
+        {
+          "client_id": "1061190048687-rnlfmmr44j699i5mio099bqgtgn15ppb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxIhTlt70doN6E-TnKzu4kcpiOVy1NCLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061190048687-rnlfmmr44j699i5mio099bqgtgn15ppb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1061190048687-h4s33o16srh3cu42osg8jl4pleq11d24.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.filmbanisa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
